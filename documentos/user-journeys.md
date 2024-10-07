@@ -1,7 +1,7 @@
 # User-Journeys
 
 ## Julián, estudiante universitario
-Julián cuenta con un presupuesto limitado para hacer la lista de la compra. Mo le importa si tiene que acudir a distintos supermercados si con ello se consigue ajustar a su presupuesto.
+Julián cuenta con un presupuesto limitado para hacer la lista de la compra. No le importa si tiene que acudir a distintos supermercados si con ello se consigue ajustar a su presupuesto.
 Introduce dicha cantidad y el sistema le ofrece una lista de la compra cuyo coste total no la sobrepasa.
 
 ## Fernando, oficinista
